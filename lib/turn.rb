@@ -36,4 +36,5 @@ def turn(board)
   else
     puts "Please enter a valid move"
     turn(board)
+  end
 end
